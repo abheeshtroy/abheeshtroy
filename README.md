@@ -12,4 +12,4 @@ I'm a software engineer based in San Francisco. I enjoy building products, explo
 
 ### Elsewhere
 
-[Website](https://www.abheeshtroy.dev/) · [X](https://x.com/AbheeshtR) · [LinkedIn](https://www.linkedin.com/in/abheesht-roy/)
+[Portfolio](https://www.abheeshtroy.dev/) · [X](https://x.com/AbheeshtR) · [LinkedIn](https://www.linkedin.com/in/abheesht-roy/)
