@@ -8,7 +8,7 @@ I'm a software engineer based in San Francisco. I enjoy building products, explo
 
 **[SourceTether](https://github.com/abheeshtroy/sourcetether)** — A tool for persistent coding-agent memory that tracks where memories came from and detects when the underlying source code changes.
 
-**Metaview Relay** — A prototype built around Metaview. *(We'll add the repository link and an accurate description after reviewing it.)*
+**[Metaview Relay](https://metaview-relay.vercel.app/)** — A prototype built around Metaview. *(We'll add the repository link and an accurate description after reviewing it.)*
 
 ### Elsewhere
 
