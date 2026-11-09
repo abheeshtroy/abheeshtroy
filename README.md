@@ -1,4 +1,4 @@
-# Hey, I'm Abheesht 👋
+# Hey, I'm Abheesht 
 
 I'm a software engineer based in San Francisco. I enjoy building products, exploring new ideas, and working on interesting engineering problems.
 
